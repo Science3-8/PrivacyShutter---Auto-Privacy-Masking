@@ -1,0 +1,6 @@
+customtkinter
+rapidocr-onnxruntime
+opencv-python
+pillow
+mss
+shapely
