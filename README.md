@@ -8,14 +8,15 @@
 ## 起動方法
 
 1. **環境の準備**
-   - 必要なライブラリがインストールされていることを確認してください（自動的にインストールされています）。
+   - 必要なライブラリがインストールされていることを確認してください。
+     必要ライブラリ：custom tkinter , rapidocr-onnxruntime , opencv-python , pillow , mss , shapely
    - 仮想環境を使用している場合は、アクティブにしてください。
 
 2. **アプリの実行**
    以下のコマンドでアプリケーションを起動します。
 
    ```powershell
-   cd c:\Users\仕事\.gemini\antigravity\playground\chrono-kepler
+   cd "展開先のフォルダ"
    python main.py
    ```
 
